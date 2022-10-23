@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-""" Unittests for Max_path_sum_triangle.py"""
+""" Unittests for max_path_sum_triangle.py"""
 __author__ = "Michaela Benthaus"
 
 
